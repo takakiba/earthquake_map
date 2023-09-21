@@ -5,6 +5,7 @@ Drawing earthquake distribution map movie
 https://youtu.be/cwWn_W6ZbT4?si=nQYzK7FB8syFYJrm
 
 ## Sample
+[demo](sample.gif)
 
 ## required libraries
 - libcomcat-python
