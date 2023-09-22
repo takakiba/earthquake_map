@@ -19,4 +19,4 @@ def make_movie(image_file_path, frame_rate=30.0, video_name='video', image_forma
 
 
 if __name__ == '__main__':
-    make_movie('/Users/takakiba/Documents/python/eathquake_visualizere/data/test_api_002', video_name='EQ_movie')
+    make_movie('data/test_api_002', video_name='EQ_movie')
